@@ -1,7 +1,7 @@
 body{
 	background-color: #277656;
 }
-label.title{
+label#title{
 	display: block;
 	text-align: center;
 	font-size: 2em;
@@ -15,6 +15,32 @@ input{
 	display: block;
 	font-size: 1.6em;
 	margin-top: 10px;
+}
+
+h1{
+	font-size: 200%;
+	display: block;
+}
+
+p{
+	padding: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%
+	background-color: #4B9275;
+}
+
+#infoContainer{
+	background-color: #76AA95;
+	display: block;
+	padding: 20px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	border: 2px solid black;
+	text-align: center;
 }
 
 #formContainer{
@@ -48,6 +74,7 @@ input{
 	margin-right: auto;
 	margin-left: auto;
 }
+
 @media screen and (min-width: 480px){
 	#formContainer{
 		text-align: center;
