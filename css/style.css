@@ -115,7 +115,7 @@ p{
 		display: block;
 	}
 
-	#title{
+	label.title{
 		font-size: 1.5em;
 	}
 
