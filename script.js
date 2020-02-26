@@ -1,9 +1,9 @@
 function formCompletion(){
-	var fn = document.forms["Submit"]["fName"].value;
-	var ln = document.forms["Submit"]["lName"].value;
-	var e = document.forms["Submit"]["email"].value;
-	var p = document.forms["Submit"]["phone"].value;
-	if (fn.length < 1){
+	var fn = document.forms["submit"]["fName"].value;
+	var ln = document.forms["submit"]["lName"].value;
+	var e = document.forms["submit"]["email"].value;
+	var p = document.forms["submit"]["phone"].value;
+	if (fn.length ){
 		alert("Fill out first name");
 		return false;
 	}
