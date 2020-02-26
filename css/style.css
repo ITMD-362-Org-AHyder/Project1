@@ -27,6 +27,8 @@ input.submit{
 	display: block;
 	font-size: 1.6em;
 	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 input.cat{
