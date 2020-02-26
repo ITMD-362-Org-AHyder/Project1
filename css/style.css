@@ -31,6 +31,8 @@ p{
 	margin-right: auto;
 	width: 50%;
 	background-color: #4B9275;
+	font-size: 120%;
+	border: 3px solid black;
 }
 
 #infoContainer{
@@ -106,7 +108,7 @@ p{
 		font-size: 1.5em;
 	}
 
-	input{
+	input.text{
 		font-size: 1.4em;
 	}
 }
@@ -133,7 +135,7 @@ p{
 	#submit{
 		width: 40%;
 	}
-	input{
+	input.text{
 		font-size: 1.2em;
 	}
 }
