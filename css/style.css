@@ -12,7 +12,7 @@ input{
 	width: 100%;
 	border: 1px solid blue;
 	text-align: center;
-	display: block;
+	display: inline-block;
 	font-size: 1.6em;
 	margin-top: 10px;
 }
@@ -76,29 +76,58 @@ p{
 	margin-left: auto;
 }
 
-@media screen and (min-width: 480px){
+@media screen and (min-width: 400px){
 	#formContainer{
 		text-align: center;
-		margin: auto;
 		width: 100%;
 		display: block;
 	}
+
+	#infoContainer{
+		text-align: center;
+		width: 100%;
+		display: block;
+	}
+
+	#checkContainer{
+		text-align: center;
+		width: 100%;
+		display: block;
+	}
+
+
 	#submit{
 		width: 60%;
 	}
-	label{
+
+	label#title{
 		font-size: 1.5em;
 	}
+
 	input{
 		font-size: 1.4em;
 	}
 }
-@media screen and (min-width: 768px){
+@media screen and (min-width: 700px){
 	#formContainer{
 		margin: auto;
 		width: 80%;
 		display: block;
 	}
+
+	#infoContainer{
+		text-align: center;
+		width: 100%;
+		display: block;
+	}
+
+	#checkContainer{
+		text-align: center;
+		width: 100%;
+		display: block;
+	}
+
+
 	#submit{
 		width: 40%;
 	}
