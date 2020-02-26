@@ -1,9 +1,8 @@
 body{
 	background-color: #277656;
 }
-label{
-	display: inline-block;
-}
+
+
 #title{
 	display: block;
 	text-align: center;
@@ -11,7 +10,7 @@ label{
 	text-decoration: underline;
 }
 
-input{
+input.text{
 	width: 100%;
 	border: 1px solid blue;
 	text-align: center;
