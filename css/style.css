@@ -1,7 +1,10 @@
 body{
 	background-color: #277656;
 }
-label#title{
+label{
+	display: inline-block;
+}
+#title{
 	display: block;
 	text-align: center;
 	font-size: 2em;
@@ -27,7 +30,7 @@ p{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 50%
+	width: 50%;
 	background-color: #4B9275;
 }
 
@@ -100,7 +103,7 @@ p{
 		width: 60%;
 	}
 
-	label#title{
+	#title{
 		font-size: 1.5em;
 	}
 
@@ -116,14 +119,14 @@ p{
 	}
 
 	#infoContainer{
-		text-align: center;
-		width: 100%;
+		margin: auto;
+		width: 80%;
 		display: block;
 	}
 
 	#checkContainer{
-		text-align: center;
-		width: 100%;
+		margin: auto;
+		width: 80%;
 		display: block;
 	}
 
