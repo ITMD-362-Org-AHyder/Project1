@@ -26,6 +26,19 @@ input{
 	border: 2px solid black;
 	text-align: center;
 }
+
+#checkContainer{
+	background-color: #76AA95;
+	display: block;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	width: 50%;
+	border: 2px solid black;
+	text-align: center;
+}
+
 #submit{
 	width: 100%;
 	display: block;
