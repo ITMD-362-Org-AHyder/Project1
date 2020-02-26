@@ -1,7 +1,7 @@
 body{
 	background-color: #277656;
 }
-label{
+label.title{
 	display: block;
 	text-align: center;
 	font-size: 2em;
