@@ -1,5 +1,5 @@
 body{
-	background-color: #003D5F;
+	background-color: #277656;
 }
 label{
 	display: block;
@@ -16,7 +16,7 @@ input{
 	font-size: 1.6em;
 }
 #formContainer{
-	background-color: #66A8CD;
+	background-color: #76AA95;
 	display: block;
 	padding: 20px;
 	margin: 20px 4px;
