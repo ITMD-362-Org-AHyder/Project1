@@ -19,6 +19,7 @@ input.text{
 	margin-top: 10px;
 	background-color: #95DABE;
 }
+
 input.submit{
 	width: 100%;
 	border: 1px solid #004429;
@@ -26,6 +27,13 @@ input.submit{
 	display: block;
 	font-size: 1.6em;
 	margin-top: 20px;
+}
+
+input.cat{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 150%;
 }
 
 h1{
