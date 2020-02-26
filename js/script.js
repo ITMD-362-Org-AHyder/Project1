@@ -3,7 +3,7 @@ function formCompletion(){
 	var ln = document.forms["main"]["lName"].value;
 	var e = document.forms["main"]["email"].value;
 	var p = document.forms["main"]["phone"].value;
-	if (fn.length ){
+	if (fn.length < 1){
 		alert("Fill out first name");
 		return false;
 	}
