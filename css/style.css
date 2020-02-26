@@ -12,7 +12,15 @@ body{
 
 input.text{
 	width: 100%;
-	border: 1px solid blue;
+	border: 1px solid #004429;
+	text-align: center;
+	display: inline-block;
+	font-size: 1.6em;
+	margin-top: 10px;
+}
+input.submit{
+	width: 100%;
+	border: 1px solid #004429;
 	text-align: center;
 	display: inline-block;
 	font-size: 1.6em;
@@ -99,9 +107,8 @@ p{
 		display: block;
 	}
 
-
 	#submit{
-		width: 60%;
+		width: 100%;
 	}
 
 	#title{
@@ -132,7 +139,7 @@ p{
 	}
 
 	#submit{
-		width: 40%;
+		width: 100%;
 	}
 
 	input.text{
