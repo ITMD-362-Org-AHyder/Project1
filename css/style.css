@@ -32,7 +32,7 @@ input.submit{
 }
 
 input.cat{
-	display: block;
+	display: inline block;
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 150%;
