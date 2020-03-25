@@ -31,13 +31,61 @@ input.submit{
 	margin-left: 25px;
 }
 
-input.cat{
+input.cat1{
 	display: inline block;
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 150%;
 }
-input{
+input.cat2{
+	display: inline block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 150%;
+}
+input.cat3{
+	display: inline block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 150%;
+}
+input.cat4{
+	display: inline block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 150%;
+}
+input.cat5{
+	display: inline block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 150%;
+}
+input.cat6{
+	display: inline block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 150%;
+}
+input.cat7{
+	display: inline block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 150%;
+}
+input.cat8{
+	display: inline block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 150%;
+}
+input.cat9{
+	display: inline block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 150%;
+}
+div#options{
 	display: block;
 }
 
