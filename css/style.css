@@ -37,6 +37,9 @@ input.cat{
 	margin-right: auto;
 	font-size: 150%;
 }
+input{
+	display: block;
+}
 
 h1{
 	font-size: 200%;
